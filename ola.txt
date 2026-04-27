@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 ola todos. Quero alterar o arquivo. 2a versão.
+=======
+GITHUB: ola todos, tudo bem?
+>>>>>>> f400cbe41b1c76744b5139ec492e0caa02075498
